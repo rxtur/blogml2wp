@@ -5,6 +5,7 @@ Console application that converts BlogML xml file to Wordpress export readible b
 BlogML2Wp inputfile domain
 ## Parameters:
 Inputfile - name of the input file, usually BlogML.xml
+
 Domain - http preffix, for example http://domain.net/blog. This needed to convert relative blog URLs into absolute.
 ## Example:
 BlogML2Wp BlogML.xml http://domain.net/blog
