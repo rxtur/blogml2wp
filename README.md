@@ -13,7 +13,7 @@ BlogML2Wp BlogML.xml http://domain.net/blog
  1. Clone and build this repository into BlogML2Wp.exe using Visual Studio
  2. Copy BlogML2Wp.exe into any folder, for example c:\export
  3. Export BlogEngine.NET site into BlogML.xml using admin panel (admin/#/settings/advanced)
- 4. Add exported BlogML.exe into c:\export
+ 4. Add exported BlogML.xml into c:\export
  5. Open command line (cmd) and navigate to c:\export
  6. Run command as in example above.
  
