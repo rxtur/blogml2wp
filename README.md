@@ -1,5 +1,5 @@
 # blogml2wp
-Console application that converts BloML xml file to Wordpress export readible by Disqus
+Console application that converts BlogML xml file to Wordpress export readible by Disqus
 
 ## Usage:
 BlogML2Wp inputfile domain
